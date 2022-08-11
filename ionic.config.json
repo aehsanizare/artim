@@ -1,0 +1,8 @@
+{
+  "name": "Artim",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "e73da3d2"
+}
